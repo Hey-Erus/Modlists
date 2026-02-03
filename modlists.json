@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Erion",
+    "description": "The Returning of Dragons",
+    "author": "Hey_Erus",
+    "maintainers": [
+      "github/Hey-Erus"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Hey-Erus/Pictures/blob/main/Erionbanner.jpg",
+      "readme": "https://docs.google.com/document/d/1sVPn6homNGcV0Q0qex0aRghkJNW9Lyv8To09hsA-UBA/edit?usp=sharing",
+      "download": "https://build.wabbajack.org/authored_files/direct_link/Erion.wabbajack_d7675c3f-147e-404b-8bde-5c57a1e74a3f",
+      "machineURL": "Erion",
+      "discordURL": "https://discord.gg/wabbajack"
+    },
+    "download_metadata": {"Hash":"jPzHwPt5qGE=","Size":688396657,"NumberOfArchives":129,"SizeOfArchives":18053577142,"NumberOfInstalledFiles":30643,"SizeOfInstalledFiles":28908728391}
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
+
