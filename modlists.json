@@ -18,9 +18,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/Hey-Erus/Pictures/blob/main/Erionbanner.jpg",
+      "image": "https://raw.githubusercontent.com/Hey-Erus/Pictures/main/Erionbanner.jpg",
       "readme": "https://docs.google.com/document/d/1sVPn6homNGcV0Q0qex0aRghkJNW9Lyv8To09hsA-UBA/edit?usp=sharing",
-      "download": "https://build.wabbajack.org/authored_files/direct_link/Erion.wabbajack_d7675c3f-147e-404b-8bde-5c57a1e74a3f",
+      "download": "https://authored-files.wabbajack.org/Erion.wabbajack_d7675c3f-147e-404b-8bde-5c57a1e74a3f",
       "machineURL": "Erion",
       "discordURL": "https://discord.gg/wabbajack"
     },
